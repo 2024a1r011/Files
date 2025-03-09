@@ -1,5 +1,5 @@
 
-//Program to check if a given expression has valid paranthesis or not
+//Program to check if a given expression has valid paranthesis or not 
 #include <stdio.h>
 #include <string.h>
 #include <stdbool.h>
